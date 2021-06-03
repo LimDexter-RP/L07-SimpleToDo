@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">L07-SimpleToDo</string>
+    <string name="todo">Add A To Do Item</string>
+    <string name="add">ADD</string>
+    <string name="clear">CLEAR</string>
+</resources>
